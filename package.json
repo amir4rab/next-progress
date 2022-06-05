@@ -34,7 +34,7 @@
     "trailingComma": "es5"
   },
   "name": "next-progress",
-  "author": "Amir Arab",
+  "author": "Amir4rab",
   "module": "dist/next-progress.esm.js",
   "size-limit": [
     {
