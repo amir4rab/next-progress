@@ -97,7 +97,7 @@ function ProgressMeter({ color }: Props ) {
     <div className={ classes.progressMeter }>
       <Box 
         // @ts-ignore
-        sx={(theme) => ({ backgroundColor: theme.colorScheme === 'dark' ? theme.colors[color][3] : theme.colors[color][7] })} 
+        sx={(theme) => ({ backgroundColor: theme.colorScheme === 'dark' ? theme.colors[color][7] : theme.colors[color][3] })} 
         className={cx( classes.inner, classes[currentState] )}
       />
     </div>
