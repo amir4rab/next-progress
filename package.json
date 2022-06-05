@@ -33,7 +33,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "next-progress",
+  "name": "@amir4rab/next-progress",
   "author": "Amir4rab",
   "module": "dist/next-progress.esm.js",
   "size-limit": [
